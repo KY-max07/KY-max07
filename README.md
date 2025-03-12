@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">⚡Hi, I’m Koushik Yerraguntla, a passionate Full-Stack Developer.<br>⚡I have strong a foundation in Python, Golang, TyepScript, JavaScript, HTML, and CSS.<br>⚡I’m currently on a 150-day challenge to master Full-Stack Development, Data Structures & Algorithms (DSA) with Python, and AI-related topics.</p>
+<p align="left">⚡Hi, I’m Koushik Yerraguntla, a passionate Full-Stack Developer.<br>⚡I have a strong foundation in Python, Golang, TyepScript, JavaScript, HTML, and CSS.<br>⚡I’m currently on a 150-day challenge to master Full-Stack Development, Data Structures & Algorithms (DSA) with Python, and AI-related topics.</p>
 
 ###
 
@@ -98,7 +98,7 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KY-max07/KY-max07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KY-max07/KY-max07/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KY-max07/KY-max07/output/github-snake.svg" />
 </picture>
