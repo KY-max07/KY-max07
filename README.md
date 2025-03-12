@@ -90,7 +90,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KY-max07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="154" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=KY-max07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=14" height="152" alt="streak graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KY-max07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="117" alt="languages graph"  />
 </div>
 
