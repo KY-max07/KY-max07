@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/KY-max07/KY-max07/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
